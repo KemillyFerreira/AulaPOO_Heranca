@@ -1,0 +1,13 @@
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\unicor\OneDrive\Imagens\Atrasados\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache
